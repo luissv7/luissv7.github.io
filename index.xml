@@ -5,12 +5,20 @@
     <link>https:://luissv7.github.io/</link>
       <atom:link href="https:://luissv7.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Luis Sordo Vieira&#39;s Personal Website</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Dec 2019 15:51:49 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jul 2020 10:03:17 -0400</lastBuildDate>
     <image>
       <url>https:://luissv7.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Dr. Luis Sordo Vieira&#39;s Personal Website</title>
       <link>https:://luissv7.github.io/</link>
     </image>
+    
+    <item>
+      <title>Involvepublication</title>
+      <link>https:://luissv7.github.io/publication/involvepublication/</link>
+      <pubDate>Wed, 29 Jul 2020 10:03:17 -0400</pubDate>
+      <guid>https:://luissv7.github.io/publication/involvepublication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Control of Intracellular Molecular Networks Using Algebraic Methods</title>
@@ -21,10 +29,26 @@
     </item>
     
     <item>
+      <title>Computing signal transduction in signaling networks modeled as Boolean Networks, Petri Nets and hypergraphs</title>
+      <link>https:://luissv7.github.io/publication/intracellularsignaling/</link>
+      <pubDate>Tue, 10 Jul 2018 10:03:13 -0400</pubDate>
+      <guid>https:://luissv7.github.io/publication/intracellularsignaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Diagonal Equations over unramified extensions of $Q_p$</title>
       <link>https:://luissv7.github.io/publication/padicforms/</link>
       <pubDate>Tue, 15 May 2018 15:45:48 -0400</pubDate>
       <guid>https:://luissv7.github.io/publication/padicforms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are circles isoperimetric in the plane with density $e^r$?</title>
+      <link>https:://luissv7.github.io/publication/isoperimetricplane/</link>
+      <pubDate>Mon, 01 Jun 2015 09:22:14 -0400</pubDate>
+      <guid>https:://luissv7.github.io/publication/isoperimetricplane/</guid>
       <description></description>
     </item>
     

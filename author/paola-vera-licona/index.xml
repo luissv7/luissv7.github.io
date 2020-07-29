@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paola Vera-Licona | Dr. Luis Sordo Vieira&#39;s Personal Website</title>
+    <link>https:://luissv7.github.io/author/paola-vera-licona/</link>
+      <atom:link href="https:://luissv7.github.io/author/paola-vera-licona/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paola Vera-Licona</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jul 2018 10:03:13 -0400</lastBuildDate>
+    <image>
+      <url>https:://luissv7.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Paola Vera-Licona</title>
+      <link>https:://luissv7.github.io/author/paola-vera-licona/</link>
+    </image>
+    
+    <item>
+      <title>Computing signal transduction in signaling networks modeled as Boolean Networks, Petri Nets and hypergraphs</title>
+      <link>https:://luissv7.github.io/publication/intracellularsignaling/</link>
+      <pubDate>Tue, 10 Jul 2018 10:03:13 -0400</pubDate>
+      <guid>https:://luissv7.github.io/publication/intracellularsignaling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
